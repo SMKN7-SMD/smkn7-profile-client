@@ -1,6 +1,6 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <LayoutHero />
   </div>
 </template>
 
