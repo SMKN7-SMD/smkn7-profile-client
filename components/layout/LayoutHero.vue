@@ -6,7 +6,7 @@ const heroImg = '/img/hero-img.png';
 <template>
   <section id="hero" class="bg-cover bg-center relative" :style="{ backgroundImage: `url('${bgImg}')`}">
     <div class="bg-primary/80 absolute inset-0"></div>
-    <div class="text-white h-[45vh] max-w-7xl px-8 mx-auto flex items-end overflow-hidden relative md:pl-0 lg:h-[55vh]">
+    <div class="text-white h-[55vh] max-w-7xl px-8 pt-20 mx-auto flex items-end overflow-hidden relative md:pl-0 lg:h-[55vh]">
       <img :src="heroImg" alt="Selamat Datang"
         class="hidden max-h-[20rem] md:block lg:max-h-[24rem] xl:max-h-[28rem]"
       >
