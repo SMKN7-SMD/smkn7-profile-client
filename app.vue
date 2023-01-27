@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <LayoutHero />
-  </div>
+  <LayoutHero />
 </template>
 
 <style>
